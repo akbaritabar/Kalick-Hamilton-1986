@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*
+.DS_Store
+/kalick_hamilton_grow/__pycache__/*
+/kalick_hamilton_grow/.ipynb_checkpoints/*
