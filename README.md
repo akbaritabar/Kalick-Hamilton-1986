@@ -28,8 +28,8 @@ Then open your browser to [http://127.0.0.1:8521/](http://127.0.0.1:8521/) and p
 ## Files
 
 * ``run.py``: Launches a model visualization server.
-* ``model.py``: Contains the agent class, and the overall model class.
-* ``server.py``: Defines classes for visualizing the model (network layout) in the browser via Mesa's modular server, and instantiates a visualization server.
+* ``./kalick_hamilton_grow/model.py``: Contains the agent class, and the overall model class.
+* ``./kalick_hamilton_grow/server.py``: Defines classes for visualizing the model (network layout) in the browser via Mesa's modular server, and instantiates a visualization server.
 * ``batch_run.py``: Allows parameter combinations to do factorial experiments that Grow discussed in his tutorial (this is similar to Netlogo's behavior space). Exports results for both model parameters and agent reporters into CSV files in `data` folder (see an example there.)
 * ``interactive_run.ipynb``: Imports the model without visual server and allows running with different parameters to analyze the results in Jupyter Notebook. Also, imports CSV files exported from `batch_run.py` in `data` folder and allows further analysis in Jupyter Notebook.
 
