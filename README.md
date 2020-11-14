@@ -1,6 +1,6 @@
 # Kalick, S. M., & Hamilton, T. E. (1986). The matching hypothesis reexamined
 
-A model following [Andre Grow](https://www.andre-grow.net/simulation-models)'s Netlogo tutorial of Kalick & Hamilton, 1986<sup>1</sup> replicated using Mesa in Python. I have took impression and code from multiple [Mesa examples](https://github.com/projectmesa/mesa/tree/master/examples) in this prototype.
+A model following [Andre Grow](https://www.andre-grow.net/simulation-models)'s Netlogo tutorial of Kalick & Hamilton, 1986<sup>1</sup> replicated using Mesa in Python. I have taken inspiration and code from multiple [Mesa examples](https://github.com/projectmesa/mesa/tree/master/examples) in this prototype.
 
 ![Kalick Hamiltion 1986 model with Mesa (left) and Netlogo (right)](./data/mesa_netologo_kalick_hamiltion_1986.png)
 
